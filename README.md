@@ -1,1 +1,1 @@
-# google_news_pyrhon
+# google_news_python
